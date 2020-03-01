@@ -9,3 +9,6 @@ Web App (PWA) do usuário:
 
 https://github.com/IagoRocha3112/smart.home.app
 
+CPU para controle dos dispositivos na residência:
+
+https://github.com/IagoRocha3112/smart.home.cpu
