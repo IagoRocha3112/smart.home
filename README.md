@@ -3,7 +3,7 @@
 > Esse projeto é referente uma palestra sobre IoT e automação residencial. 
 
 
-# Lista de repositórios pertencentes ao projeto:
+## Lista de repositórios pertencentes ao projeto:
 
 Web App (PWA) do usuário:
 
